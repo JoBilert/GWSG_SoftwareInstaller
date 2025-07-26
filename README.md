@@ -22,5 +22,9 @@ Wählen Sie "installieren", um die Software zu installieren. Setzen Sie das Häk
 
 Selbstverständlich kann die Software auch manuell ohne das Skript installiert werden. 
 
+## 3. Wie starte ich das Skript?
+* Öffnen Sie den Ordner, in dem Sie das Skript gespeichert haben (standardmäßig im "Downloads"-Ordner).
+* Klicken Sie die Datei *GWSG-Softwareinstaller.ps1* mit der **rechten Maustaste** bzw. der **rechten Taste des Touchpads** an und wählen Sie die Option *"Mit PowerShell ausführen"*.
+  
 ## Fragen? Anregungen?
 Bei Problemen, Fragen und Anregungen können Sie gerne die "Issues"-Seite des Github-Repositories https://github.com/JoBilert/GWSG_SoftwareInstaller/issues nutzen oder eine E-Mail an systembetreuung(at)gwsg.net schreiben.
