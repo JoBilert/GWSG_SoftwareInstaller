@@ -75,7 +75,7 @@ Write-Log "*** Installation manuell ***" -Level INFO
 $programme_manual = @(
     #"https://download.messenger.bycs.de/clients/bycs-messenger-latest-win.exe",
     #"https://desktop-client-download.drive.bycs.de/download/5.3.1.14278/bycsdrive-5.3.1.14278.x64.msi"
-    #"https://phywe-itemservice.s3.eu-central-1.amazonaws.com/sites/DMS-Phywe/PROD/de-DE/item/phy_itemsoftware/14/14440-62/SETUPMD.msi"
+    #"https://phywe-itemservice.s3.eu-central-1.amazonaws.com/sites/DMS-Phywe/PROD/de-DE/item/phy_itemsoftware/14/14452-61/SETUPM.EXE"
 )
 foreach ($p in $programme_manual){
     try {
