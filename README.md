@@ -1,2 +1,2 @@
 # GWSG_SoftwareInstaller
-Pwershellscript that lods and installs all the Software for your GWSG School-Laptop
+Powershell-Script zum Herunterladen und Installieren von Software für die Laptops am GWSG Bad Windsheim
